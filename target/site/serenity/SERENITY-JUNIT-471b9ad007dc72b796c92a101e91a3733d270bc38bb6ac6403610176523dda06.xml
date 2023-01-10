@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="10" name="com.gorest.testsuite.UserDataDrivenTest" skipped="0" tests="10" time="35.49" timestamp="2023-01-10T22:34:20.667Z[Europe/London]"><testcase classname="com.gorest.testsuite.UserDataDrivenTest" name="Data driven test for adding multiple users to the application"><failure message="1 expectation failed.&#10;Expected status code &lt;201&gt; but was &lt;422&gt;.&#10;" type="java.lang.AssertionError">1 expectation failed.
+Expected status code &lt;201&gt; but was &lt;422&gt;.
+</failure><system-err>1 expectation failed.
+Expected status code &lt;201&gt; but was &lt;422&gt;.
+&#13;
+io.restassured.internal.ResponseSpecificationImpl.validateResponseIfRequired(ResponseSpecificationImpl.groovy:636)&#13;
+io.restassured.internal.ResponseSpecificationImpl.statusCode(ResponseSpecificationImpl.groovy:122)&#13;
+io.restassured.internal.ResponseSpecificationImpl.statusCode(ResponseSpecificationImpl.groovy:130)&#13;
+io.restassured.internal.ValidatableResponseOptionsImpl.statusCode(ValidatableResponseOptionsImpl.java:117)&#13;
+com.gorest.testsuite.UserDataDrivenTest.createMultipleUsers(UserDataDrivenTest.java:33)&#13;
+</system-err></testcase></testsuite>

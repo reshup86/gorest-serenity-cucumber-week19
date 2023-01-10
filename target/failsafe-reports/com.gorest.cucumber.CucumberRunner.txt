@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.gorest.cucumber.CucumberRunner
+-------------------------------------------------------------------------------
+Tests run: 16, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 9.56 sec - in com.gorest.cucumber.CucumberRunner

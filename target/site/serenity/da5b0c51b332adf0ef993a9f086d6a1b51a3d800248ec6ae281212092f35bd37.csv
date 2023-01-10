@@ -1,0 +1,4 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Tag test","Provide a 405 status code when incorrect HTTP method is used to access resource","FAILURE","2023-01-10T22:27:01.067Z[Europe/London]","0.0","0.32"
+"Tag test","This test will provide an error code of 400 when user tries to access an invalid resource","FAILURE","2023-01-10T22:27:01.711Z[Europe/London]","0.0","0.51"
+"User data driven test","Data driven test for adding multiple users to the application","FAILURE","2023-01-10T22:27:03.809Z[Europe/London]","0.0","15.7"
